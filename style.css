@@ -1,0 +1,21 @@
+body {
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.wrapper #speechButton {
+    font-size: 2rem;
+}
+
+.wrapper #speechArea {
+    width: 50%;
+    height: 50vh;
+    background-color: white;
+    margin: 0 auto;
+    text-align: left;
+    padding: 10px;
+}
+
+.wrapper #speechArea #span_1 {
+    font-size: 1.5rem;
+}
